@@ -1,0 +1,6 @@
+{
+  "name": "ZX__ESPORTS",
+  "description": "ZX__ESPORTS Free Fire custom room skill contests, eSewa QR wallet integration, and live tournament control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
